@@ -4,3 +4,5 @@
 ## **Bit Manipulation**
 - https://leetcode.com/discuss/interview-question/3695233/All-Types-of-Patterns-for-Bits-Manipulations-and-How-to-use-it
 - https://github.com/electronicarts/EAStdC/blob/master/include/EAStdC/EABitTricks.h
+- https://www.geeksforgeeks.org/bits-manipulation-important-tactics/
+- https://www.geeksforgeeks.org/bit-tricks-competitive-programming/
