@@ -3,3 +3,4 @@
 - <https://github.com/karanpratapsingh/system-design>
 - <https://github.com/systemdesign42/system-design>
 - <https://github.com/ByteByteGoHq/system-design-101>
+- [Clean code principle](https://cln.co/)
